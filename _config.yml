@@ -1,9 +1,9 @@
 # SITE CONFIGURATION
-title: Process Engineering | Data Science # your site title
+title: Muhammad Tahir Ashraf, Ph.D. # your site title
 author: Muhammad Tahir Ashraf, Ph.D. # You :P
 description: > # Meta description of Homepage
-  This website hosts personal notes broad topics including Process Engineering,  Chemical Engineering, Biorefinery, Renewable Energy, Data Analysis, and Data Science. 
-  #Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  Notes on broad topics including Process Engineering, Chemical Engineering, Biorefinery, Renewable Energy, Data Analysis, and Data Science. 
+  # Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tahircpe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -26,9 +26,9 @@ navigation: # Navigation links
 
 tagline: >
   Notes on Process Engineering and Data Science Topics
-  #Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
-hero_img: /assets/img/posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: tahircpe@gmail.com # email for form submission
 

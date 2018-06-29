@@ -10,6 +10,8 @@ mathjax: true
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
 
+## Checking out a new heading
+
 1. Just download or fork and clone the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/).
 2. Make sure your local machine has ruby and node
 3. Edit site settings in  `_config.yml` file according to your project.
