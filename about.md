@@ -4,10 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+I am a process engineer working in the field of biorefinery process development. I have completed my PhD from Masdar Institute, Abu Dhabi. The PhD program at Masdar Institute and my PhD research
+project were in collaboration with Massachusetts Institute of Technology (MIT). I got the opportunity to do
+research at both the institutes with a multidisciplinary team.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+In summary, my research experience is in modeling, optimization, and process design of chemical and bioprocesses. I consider myself privileged to have experienced the strengths and limitations of both the experimental and modeling domains, and I understand their synergy that is required for successful development
+of any new chemical process. 
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+I write this blog to share my personal notes on process engineering, use of open source programming tools in process engineering, and data science.
+
+
+You can find my academic profile here:
+
+[Research Gate](https://www.researchgaten.net/profile/Muhammad_Tahir_Ashraf)
+
+[Google Scholar](https://scholar.google.com.pk/citations?user=n78vr4kAAAAJ&hl=en)
