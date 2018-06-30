@@ -23,6 +23,10 @@
 
   {% endif %}
 
+  {% if site.google_analytics %}
+    {% include google_analytics.html %}
+  {% endif %}
+
   <style class="inlineCSS">
 
     {% include critical.css %}
