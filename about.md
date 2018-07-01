@@ -16,6 +16,6 @@ I write this blog to share my personal notes on process engineering, use of open
 
 You can find my academic profile here:
 
-[Research Gate](https://www.researchgaten.net/profile/Muhammad_Tahir_Ashraf)
+[Research Gate](https://www.researchgate.net/profile/Muhammad_Tahir_Ashraf)
 
 [Google Scholar](https://scholar.google.com.pk/citations?user=n78vr4kAAAAJ&hl=en)
