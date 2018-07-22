@@ -42,7 +42,7 @@ Here $\pi$ is the number of phases, $N$ number of components, and $F$ is the num
 For a pure component existing in one phase ($\pi  = 1$) any two of the following can be specified: Temperature, pressure, vapor fraction (quality), or specific thermodynamic properties such as specific enthalpy, specific entropy, specific volume. In the case of a mixture, in addition to above, the composition needs to be defined.
 
 # Demo
-A stream class is developed and its use is demonstrated below. Code for the stream class is given at the bottom.
+A stream class is developed and its use is demonstrated below. Code for the stream class is given at the [end](#stream class code).
 
 First of all import the CoolProp package and the `material_stream` class
 
@@ -133,3 +133,7 @@ print('New state: \n', MS_add3.state)
 # Summary
 
 Python's object-oriented programming offers a versatile platform to develop modules for modeling chemical engineering problems. The class object can hold data and functionalities for a unit operation. Creating a class instance as an object makes it easy to deploy the unit operation on demand and also interact with other section of the process.
+
+# Stream Class Code
+
+<script src="https://gist.github.com/tahircpe/6c0f09505dd7b55760e23305ac0aec11"></script>
