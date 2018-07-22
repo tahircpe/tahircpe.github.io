@@ -2,6 +2,7 @@
 layout: post
 title: CoolProp — A Cool Package for Thermophysical Properties  
 #featured-img: phase-diagram
+comments: true
 mathjax: true
 categories: CoolProp Thermophysical Python Chemical-Engineering
 ---

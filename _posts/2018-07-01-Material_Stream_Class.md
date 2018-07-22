@@ -2,6 +2,7 @@
 layout: post
 title: Developing a Material Stream Class in Python using CoolProp  
 #featured-img: phase-diagram
+comments: true
 mathjax: true
 categories: Material-Balance CoolProp Thermophysical Python Object-Oriented-Programming
 ---
@@ -136,4 +137,4 @@ Python's object-oriented programming offers a versatile platform to develop modu
 
 # Stream Class Code
 
-<script src="https://gist.github.com/tahircpe/6c0f09505dd7b55760e23305ac0aec11"></script>
+{% gist 6c0f09505dd7b55760e23305ac0aec11 stream.py %}
