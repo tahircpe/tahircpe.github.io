@@ -2,7 +2,7 @@
 title: Muhammad Tahir Ashraf, Ph.D. # your site title
 author: Muhammad Tahir Ashraf, Ph.D. # You :P
 description: > # Meta description of Homepage
-  Notes on use open source modeling tools for process engineering and data science.
+  Notes on open source modeling tools for process engineering and data science.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tahircpe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -22,6 +22,7 @@ social:
 navigation: # Navigation links
   - {name: 'Blog', link: '/'}
   - {name: 'Categories', link: '/categories'}
+  - {name: 'Resume', link: '/cv'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
