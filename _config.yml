@@ -22,7 +22,7 @@ social:
 navigation: # Navigation links
   - {name: 'Blog', link: '/'}
   - {name: 'Categories', link: '/categories'}
-  - {name: 'Resume', link: '/cv'}
+  - {name: 'Resume', link: '/resume'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
